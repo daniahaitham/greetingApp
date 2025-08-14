@@ -1,10 +1,10 @@
 import react from 'react';
-import greeting from './greeting';
+import Greeting from './Greeting';
 
 function App (){
   return (
     <div>
-      <greeting />
+      <Greeting />
     </div>
   )
 }
